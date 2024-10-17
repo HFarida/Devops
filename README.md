@@ -1,3 +1,4 @@
 # Devops
 Learning advanced devops tools 
-Day 1: Learn CI with Azure and Jenkins
+Learn CI with Azure and Jenkins
+Implémenter CI avec Azure Pipeline and Github Actions
